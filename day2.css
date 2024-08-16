@@ -1,0 +1,58 @@
+body{
+    background: url("https://images.odishatv.in/uploadimage/library/16_9/16_9_2/recent_photo_1722260889.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+  background-color: rgba(42, 165, 97, 0.514);
+  font-style: italic;
+}
+
+h3{
+    color: brown;
+    font-size: medium;
+    font-style: oblique;
+    text-align: left;
+    text-decoration:overline ;
+}
+
+h4{
+    color: blue;
+    font-size: medium;
+    font-style: oblique;
+    text-align: right;
+    text-decoration: underline;
+}
+.a img{
+   align-items: left;
+   border: 2px solid black;
+   box-shadow: 2px 2px 2px 2px green;
+   object-fit: cover;
+   width: 500px;
+   height: 280px;
+}
+.b img{
+    align-items: left;
+    border: 2px solid black;
+   box-shadow: 2px 2px white;
+   object-fit: contain;
+   width: 500px;
+   height: 500px;
+}
+.c img{
+    align-items: left;
+    border: color 2px; white;
+    box-shadow: 2px 2px 2px 2px green;
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+
+}
+.d{
+    align-items: left;
+    border: color 2px; white;
+    box-shadow: 2px 2px 2px 4px green;
+    object-fit: cover;
+    width: 200px;
+    background:linear-gradient( to right, green, red, white);
+}
